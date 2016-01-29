@@ -7,7 +7,7 @@ app.factory('userData', function() {
       lastName: 'Kwon',
       languages: ["Java", "JavaScript","Other Web Stuff"],
       email: 'yk0724@gmail.com',
-      startDate: new Date(2000, 02, 04), // month value is 0 based, others are 1 based.
+      startDate: new Date(2000, 01, 04), // month value is 0 based, others are 1 based.
       dashes: 'something that should not have spaces',
       username: 'yk0724'
     }
